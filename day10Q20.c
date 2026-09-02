@@ -2,6 +2,7 @@
 int main()
 {
     int day;
+    printf("enter day")
     scanf("%d", &day);
     switch (day)
     {
