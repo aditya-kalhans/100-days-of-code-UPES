@@ -2,7 +2,7 @@
 int main()
 {
     float cp, sp, percentage;
-    printf("enter percentage")
+    printf("enter percentagee")
     scanf("%f %f", &cp, &sp);
     if (sp > cp)
     {
