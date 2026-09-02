@@ -2,6 +2,7 @@
 int main()
 {
     int a, b, c;
+    printf("Enter number")
     scanf("%d %d %d", &a, &b, &c);
     if (a == b && b == c)
     {
